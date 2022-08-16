@@ -12,8 +12,8 @@ body{
     background: linear-gradient(#8491e6, #1a39f6);
 }
 #calculator{
-    height: 600px;
-    max-width: 350px;
+    height: 550px;
+    max-width: 300px;
     background-color: black;
     margin: 0 auto;
     box-shadow: 10px 10px 15px;
